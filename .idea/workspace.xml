@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eca3d7b2-1e0e-4b87-b940-553d3be9c038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Day1Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Day2Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Day3Solution.java" afterDir="false" />
+    <list default="true" id="f13e02cd-a57c-4855-b8ea-359be6ad617a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Day4Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/adventofcode2019/META-INF/adventofcode2019.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/adventofcode2019/com/company/Day1Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/adventofcode2019/com/company/Day1Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/adventofcode2019/com/company/Day2Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/adventofcode2019/com/company/Day2Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/adventofcode2019/com/company/Day3Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/adventofcode2019/com/company/Day3Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/adventofcode2019/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/adventofcode2019/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Day2Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Day2Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Day3Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Day3Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +28,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -29,18 +35,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1UQVjBz7BRwxWU9703Ko1RwfDnP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1UVfhiwaZbMGCLQcMs5QO3YObNq" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\emmad\IdeaProjects\adventofcode2019" />
-      <recent name="C:\Users\emmad\IdeaProjects\adventofcode2019\src" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdventOfCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -54,13 +54,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Day3Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Day3Solution" />
+      <module name="adventofcode2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="adventofcode2019" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,6 +84,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Day3Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -76,12 +93,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eca3d7b2-1e0e-4b87-b940-553d3be9c038" name="Default Changelist" comment="" />
-      <created>1575288938604</created>
+      <changelist id="f13e02cd-a57c-4855-b8ea-359be6ad617a" name="Default Changelist" comment="" />
+      <created>1575446803532</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575288938604</updated>
-      <workItem from="1575288944809" duration="21848000" />
+      <updated>1575446803532</updated>
+      <workItem from="1575446806352" duration="14596000" />
     </task>
     <servers />
   </component>

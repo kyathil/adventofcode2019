@@ -12,8 +12,9 @@ public class Main {
 
         Day1Solution day1 = new Day1Solution();
         Day2Solution day2 = new Day2Solution();
-        Day3Solution day3 = new Day3Solution();
-        day3.distanceToCentralPort("R42");
+        Day4Solution day4 = new Day4Solution();
+
+        int result4 = day4.findNoPasswords();
 
         result1 = day1.calculateFuel();
         result2 = day2.calculateOpCode(day2Input.clone(), 12, 2);
@@ -22,5 +23,6 @@ public class Main {
         System.out.println("Day 2 part A solution = " + result2);
         result3 = day2.partB(day2Input.clone());
         System.out.println("Day 2 part B solution = " + result3);
+        System.out.println("Day 4 part A solution = " + result4);
     }
 }

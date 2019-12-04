@@ -12,7 +12,6 @@ public class Day2Solution {
             for (int j = 0; j < 100; j++){
                 result = calculateOpCode(opcodes, i, j);
                 if(result == stopSum) {
-                    System.out.println("Hello");
                     return (100 * i) + j;
                 }
             }
